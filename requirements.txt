@@ -1,0 +1,9 @@
+atari-py==0.2.6
+gym==0.17.1
+numpy==1.18.2
+tensorflow==2.1.0
+sacred==0.8.1
+box2d-py==2.3.8
+# below is only necessary for atari/dopamine
+opencv-python==4.2.0.34
+gin-config==0.3.0
