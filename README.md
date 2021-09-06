@@ -1,4 +1,4 @@
-# Implementation of  "Unsupervised Task Clustering for Multi-Task Reinforcement Learning"
+# Implementation of  "Unsupervised Task Clustering for Multi-Task Reinforcement Learning", paper available [here](https://sites.google.com/view/unsupervised-task-clustering)
 
 We use [`sacred`](https://github.com/IDSIA/sacred) to configure and monitor our experiments.
 
